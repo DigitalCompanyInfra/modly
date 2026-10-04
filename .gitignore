@@ -30,12 +30,9 @@ npm-debug.log*
 Thumbs.db
 
 # IDE
-.vscode/
 .idea/
 
 # Env
-.env
-.env.local
 
 # TypeScript incremental build output
 *.tsbuildinfo
@@ -43,3 +40,4 @@ Thumbs.db
 # Local dev helpers
 install.bat
 launch.bat
+config.bat
